@@ -65,6 +65,8 @@ summary.aov(model1)
 plot(TukeyHSD(model1))
 ```
 
+The Tukey test shows that there is a relation between which row of seats you choose to sit in and how much alcohol you will consume.
+
 ## Conclusions
 
 
