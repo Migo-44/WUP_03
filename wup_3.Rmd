@@ -19,8 +19,8 @@ Is there a difference between the alcohol consumed between the row you choose to
 
 ## Method
 
-$H_0$: There is no difference between the alcohol consumed between the row you choose to sit in.  
-$H_A$: There is a difference between the alcohol consumed between the row you choose to sit in.  
+$H_0$: There is no difference between the alcohol consumed and the row you choose to sit in.  
+$H_A$: There is a difference between the alcohol consumed and the row you choose to sit in.  
 
 Alcohol consumed~numerical
 Seated row~categorical
@@ -69,4 +69,6 @@ The Tukey test shows that there is a relation between which row of seats you cho
 
 ## Conclusions
 
-
+We wanted to see of there was a relation between which row of seats you choose and how much alcohol you consume.      
+We got the data from a sample in Georgetown and reject $H_0$.     
+We conclude that a person will consume more alcohol the further they sit back from the front row.     
