@@ -19,10 +19,10 @@ Is there a difference between the alcohol consumed between the row you choose to
 
 ## Method
 
-$H_0$: 
-$H_A$: 
+$H_0$: There is no difference between the alcohol consumed between the row you choose to sit in.  
+$H_A$: There is a difference between the alcohol consumed between the row you choose to sit in.  
 
-Alchohol consumed~numerical
+Alcohol consumed~numerical
 Seated row~categorical
 Thus we use the helper file Numerical~Cat
 
