@@ -44,13 +44,15 @@ basicCN + geom_boxplot()
 basicCN + geom_boxplot(notch=TRUE,outlier.color = "red") + stat_boxplot(geom ='errorbar') + labs(title="Fancy notch boxplot \n with 2 lines")
 ```
 
+The plot shows that the back row of seats consumes the most alcohol, followed by the middle row, and lastly the front row consumes the least.
+
 ## Numerical Summarys 
 
 ```{r}
 favstats(alcohol~Seat,data=ucdavis1)
 ```
 
-
+The numerical shows that the back row of seats consume about three times the amount of alcohol that the front row of seats consume.
 
 ## Inferential Tests
 
