@@ -66,6 +66,7 @@ plot(TukeyHSD(model1))
 ```
 
 The Tukey test shows that there is a relation between which row of seats you choose to sit in and how much alcohol you will consume.
+The intervals for middle-back and front-back do not contain 0, so that means there is a significant difference between how much alcohol you consume and which row of seats you sit in.   
 
 ## Conclusions
 
